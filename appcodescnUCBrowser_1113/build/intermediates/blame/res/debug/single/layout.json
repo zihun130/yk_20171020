@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\weave_bookmarks_list_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\weave_bookmarks_list_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\url_autocomplete_line.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\url_autocomplete_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\video_player.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\video_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\expanellistview.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\expanellistview.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\searchs_popwindow.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\searchs_popwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\qr_code_scan.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\qr_code_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_addnewpage.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\popwindow_addnewpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\search_autocomplete_line.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\search_autocomplete_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_item.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\searchactivity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\searchactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_list_header.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\umeng_fb_list_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\adblocker_whitelist_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\adblocker_whitelist_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\player.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\player.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\popmenu.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\popmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\video_loading_progress.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\video_loading_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\loading_layout.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\loading_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\details_title.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\details_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\above_slidingmenu.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\above_slidingmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\weave_preferences_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\weave_preferences_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\addnewpage.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\addnewpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\mobile_view_list_row.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\mobile_view_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\preferences_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\preferences_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\home_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\home_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\load_failed_layout.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\load_failed_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\grid_menu.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\grid_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\changelog_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\changelog_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\bookmarks_list_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\bookmarks_list_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\download_set_layout.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\download_set_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\browser_title_bar.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\browser_title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\bookmarks_history_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\bookmarks_history_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\weave_bookmark_row.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\weave_bookmark_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\homepage_preference.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\homepage_preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\gd_quick_action_grid_item.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\gd_quick_action_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\setting_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\setting_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\item_search.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\item_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_list_item.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\umeng_fb_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\adblocker_whitelist_row.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\adblocker_whitelist_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\gd_quick_action_grid.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\gd_quick_action_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\download.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\download.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\download_row_old.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\download_row_old.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_activity_conversation.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\umeng_fb_activity_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\grid_home_item.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\grid_home_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\start_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\start_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\uCVitamioBundle\\build\\intermediates\\bundles\\default\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\edit_bookmark_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\edit_bookmark_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_activity_contact.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\umeng_fb_activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\play_video_detail.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\play_video_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\imagebutton.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\imagebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\base_spinner_custom_preference_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\base_spinner_custom_preference_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\history_row.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\history_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\http_authentication_dialog.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\http_authentication_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\waiting.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\waiting.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\javascript_prompt_dialog.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\javascript_prompt_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\show_activity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\show_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\system_player.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\system_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\bookmark_row.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\bookmark_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_new_reply_alert_dialog.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\umeng_fb_new_reply_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\item_download_notify.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\item_download_notify.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\build\\intermediates\\res\\merged\\debug\\layout\\searchs_acitivity.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\appcodescnUCBrowser_1113\\src\\main\\res\\layout\\searchs_acitivity.xml"
+    }
+]

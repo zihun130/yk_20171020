@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\uCVitamioBundle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_seekbar_thumb.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\uCVitamioBundle\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\uCVitamioBundle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_pause_button.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\uCVitamioBundle\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_pause_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\uCVitamioBundle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_seekbar.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\uCVitamioBundle\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_seekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\uCVitamioBundle\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\mediacontroller_play_button.xml",
+        "source": "C:\\Users\\xiangdian\\workspace\\yk_20171020\\uCVitamioBundle\\build\\intermediates\\bundles\\debug\\res\\drawable\\mediacontroller_play_button.xml"
+    }
+]
